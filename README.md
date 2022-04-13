@@ -1,5 +1,5 @@
 
-### E aí! Eu sou o Maicon Romano ✌️
+### E aí! Meu nome é Maicon Romano ✌️
 
 [![DIO](https://img.shields.io/badge/DIO-100000?style=for-the-badge&logo=ifood&logoColor=white)](https://web.dio.me/users/shardersfx?tab=achievements)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.romano__/)
