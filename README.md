@@ -3,7 +3,7 @@
 
 [![DIO](https://img.shields.io/badge/DIO-100000?style=for-the-badge&logo=ifood&logoColor=white)](https://web.dio.me/users/shardersfx?tab=achievements)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.romano__/)
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-100000?style=for-the-badge&logo=ifood&logoColor=white)](https://web.dio.me/users/shardersfx?tab=achievements)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-100000?style=for-the-badge&logo=ifood&logoColor=white)](https://www.freecodecamp.org/maicon-romano)
 
 ![Maicon Romano GitHub stats](https://github-readme-stats.vercel.app/api?username=maicon-romano&show_icons=true&theme=dark)
 
